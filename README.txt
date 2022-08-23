@@ -11,6 +11,10 @@ Theta* is also implemented here which finds the shortest any path distance betwe
 The algorithms, structures and the full contents/code for the project writeup are implemented by me.
 The UI was mainly developed by my partner Jane. Credit is commented at the top of each file in the project architecture.
 
+Simple test cases can be found in the tests folder. 50x100 tests can be generated using the generatetests.py file. 
+
+Photo examples of the program can be found in the writeup
+
 --Contents--
 
     + Project Write Up (projectwriteup.txt)
