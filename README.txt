@@ -16,10 +16,22 @@ The UI was mainly developed by my partner Jane. Credit is commented at the top o
     + Project Write Up (projectwriteup.txt)
         - This contains testing and discussion of optimizations made to this code. It also contains discussion of the theoretical differences
         in the two algorithms.
-        - This project also includes some discussion of Local and Adversarial Search to show theoretical understanding of classical search algorithms.
-    + 
-
-
+        - This project also includes some discussion of Local and Adversarial Search to show theoretical understanding  of classical search algorithms.
+        
+ -- Work Implemented by Me --
+ 
+    + astar.py 
+        - Implements the A* algorithm
+    + generatetests.py
+        - Randomly generates test grids for use with either algorithm. (Size is 50 x 100 by default but can be adjusted in the constants.
+    + graph.py
+        - Represents the grid that algorithms find paths for.
+    + readin.py
+        - Reads in the grids from txt representation
+    + thetastar.py
+        - Implements theta* algorithm. Note: LineOfSight function is adapted from pseduocode not created by me.
+    + vertex.py
+        - Represents a vertex in a grid.
 
 ---Running the Program---
 The program can be run through the command line by calling the main.py file
