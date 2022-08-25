@@ -1,3 +1,5 @@
+# NOT WRITTEN BY FINN JENSEN #
+
 from vertex import Vertex
 
 def points(x, y, canvas_name, radius, tag, fill):
