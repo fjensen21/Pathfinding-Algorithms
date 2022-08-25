@@ -1,3 +1,5 @@
+# NOT WRITTEN BY FINN JENSEN #
+
 import vertex
 import graph
 from griddisplay import *
